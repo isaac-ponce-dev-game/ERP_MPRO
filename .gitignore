@@ -1,0 +1,28 @@
+# Ambientes virtuais
+venv/
+__pycache__/
+
+# Banco de dados local
+db.sqlite3
+*.sqlite3
+
+# Configurações locais
+.env
+debug.log
+
+# Diretórios de backup
+backups/
+
+# Arquivos e logs do sistema
+*.log
+
+# Arquivos gerados pelo Python
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+
+# Arquivos e pastas do Docker
+nginx/
